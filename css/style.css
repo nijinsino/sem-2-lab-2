@@ -1,0 +1,29 @@
+/** one **/
+
+/** second step **/
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+/**third step **/
+h1 {
+    font-size: 46px;
+    letter-spacing: 2px;  
+    text-align: center;   
+    color: #3498db;       
+  }
+  
+/** fourth step **/
+body, p, a, ul, li {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+/** fifth step **/
+p span {
+    color: #e74c3c; 
+} 
+/** sixth step **/
+h3 {
+    font-size: 32px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);  
+  }
